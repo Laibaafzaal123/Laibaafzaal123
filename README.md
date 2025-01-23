@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm LAIBA AFZAAL</h1>
+<img src="https://i.pinimg.com/originals/8c/ca/13/8cca13ffa0d0dad32fc34f03fa9271d5.jpg" alt="banner logo">
+ <h1 align="center">Hi 👋, I'm LAIBA AFZAAL</h1>
 <h3 align="center">Developer 💻 | Coding Enthusiast 🚀 | Passionate About Building Solutions 🔧</h3>
 <img src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" alt="coding" width="200" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laibaafzaal123&label=Profile%20views&color=0e75b6&style=flat" alt="laibaafzaal123" /> </p>
